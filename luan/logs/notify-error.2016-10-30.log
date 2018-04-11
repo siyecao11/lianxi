@@ -1,0 +1,22 @@
+2016-10-30-18:05:24 [main] ERROR com.Utility.Log.Log(line-54)  - ********Purchase Visa Menu item is not found on the Wlecome Page********
+  2016-10-30-18:05:41 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-10-30-18:11:31 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-10-30-18:11:31 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-10-30-18:11:31 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-10-30-18:11:31 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-10-30-18:11:31 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-10-30-18:11:31 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-10-30-18:11:31 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-10-30-18:11:31 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-10-30-18:11:31 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-10-30-18:15:39 [main] ERROR com.Utility.Log.Log(line-54)  -  visa  Productslist is not found in the visa Page.
+  2016-10-30-18:16:10 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-10-30-18:16:11 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-10-30-18:16:11 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-10-30-18:16:12 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-10-30-18:16:12 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-10-30-18:16:12 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-10-30-18:16:12 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-10-30-18:16:12 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-10-30-18:16:12 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  

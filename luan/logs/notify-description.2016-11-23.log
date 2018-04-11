@@ -1,0 +1,127 @@
+2016-11-23-19:46:58 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录名定位失败********
+  2016-11-23-19:46:58 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"name","selector":"element"}
+Command duration or timeout: 22 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 14364dea-3535-4699-95d5-ef4b8c7c8f55
+*** Element info: {Using=name, value=element}
+  2016-11-23-19:46:58 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商密码定位失败********
+  2016-11-23-19:46:58 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"name","selector":"element"}
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 14364dea-3535-4699-95d5-ef4b8c7c8f55
+*** Element info: {Using=name, value=element}
+  2016-11-23-19:46:58 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录按钮定位失败********
+  2016-11-23-19:46:58 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"name","selector":"element"}
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 14364dea-3535-4699-95d5-ef4b8c7c8f55
+*** Element info: {Using=name, value=element}
+  2016-11-23-19:47:02 [main] INFO  com.Utility.Log.Log(line-48)  - Login
+  2016-11-23-19:47:06 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, null Entering into HomePage...
+  2016-11-23-19:47:06 [main] ERROR com.Utility.Log.Log(line-54)  - ********签证一级导航定位成功失败********
+  2016-11-23-19:47:17 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-23-19:47:18 [main] INFO  com.Utility.Log.Log(line-48)  - Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b2738687-cd23-43f8-8fb1-1678875ea20e
+  2016-11-23-19:47:18 [main] ERROR com.Utility.Log.Log(line-54)  -  旅客信息 is not found in the visa Page.
+  2016-11-23-19:48:28 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录名定位失败********
+  2016-11-23-19:48:28 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"name","selector":"element"}
+Command duration or timeout: 23 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 71e6b977-7e01-4a76-a5c6-ba36774f8df8
+*** Element info: {Using=name, value=element}
+  2016-11-23-19:48:28 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商密码定位失败********
+  2016-11-23-19:48:28 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"name","selector":"element"}
+Command duration or timeout: 24 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 71e6b977-7e01-4a76-a5c6-ba36774f8df8
+*** Element info: {Using=name, value=element}
+  2016-11-23-19:48:28 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录按钮定位失败********
+  2016-11-23-19:48:28 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"name","selector":"element"}
+Command duration or timeout: 29 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 71e6b977-7e01-4a76-a5c6-ba36774f8df8
+*** Element info: {Using=name, value=element}
+  2016-11-23-19:48:31 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, null Entering into HomePage...
+  2016-11-23-19:48:31 [main] ERROR com.Utility.Log.Log(line-54)  - ********签证一级导航定位成功失败********
+  2016-11-23-20:10:54 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-23-20:10:54 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-23-20:10:54 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-23-20:10:59 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, null Entering into HomePage...
+  2016-11-23-20:10:59 [main] ERROR com.Utility.Log.Log(line-54)  - ********签证一级导航定位成功失败********
+  2016-11-23-20:12:33 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录名定位失败********
+  2016-11-23-20:12:33 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"name","selector":"element"}
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f4322082-a528-4143-8b88-d714996705cc
+*** Element info: {Using=name, value=element}
+  2016-11-23-20:12:33 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商密码定位失败********
+  2016-11-23-20:12:33 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"name","selector":"element"}
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f4322082-a528-4143-8b88-d714996705cc
+*** Element info: {Using=name, value=element}
+  2016-11-23-20:12:33 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录按钮定位失败********
+  2016-11-23-20:12:33 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"name","selector":"element"}
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f4322082-a528-4143-8b88-d714996705cc
+*** Element info: {Using=name, value=element}
+  2016-11-23-20:12:37 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, null Entering into HomePage...
+  2016-11-23-20:12:37 [main] ERROR com.Utility.Log.Log(line-54)  - ********签证一级导航定位成功失败********
+  2016-11-23-20:13:26 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-23-20:13:26 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-23-20:13:27 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-23-20:13:33 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, null Entering into HomePage...
+  2016-11-23-20:13:33 [main] ERROR com.Utility.Log.Log(line-54)  - ********签证一级导航定位成功失败********
+  2016-11-23-20:23:32 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-23-20:23:33 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-23-20:23:33 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-23-20:23:36 [main] INFO  com.Utility.Log.Log(line-48)  - Login
+  2016-11-23-20:23:45 [main] INFO  com.Utility.Log.Log(line-48)  - LoginVisa
+  2016-11-23-20:26:50 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-23-20:26:50 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-23-20:26:50 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-23-20:26:53 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-11-23-20:26:55 [main] INFO  com.Utility.Log.Log(line-48)  - Login
+  2016-11-23-20:27:04 [main] INFO  com.Utility.Log.Log(line-48)  - LoginVisa
+  

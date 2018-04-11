@@ -1,0 +1,11 @@
+2016-11-02-21:21:28 [main] ERROR com.Utility.Log.Log(line-54)  -  visa  Productslist is not found in the visa Page.
+  2016-11-02-21:21:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-02-21:21:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-02-21:21:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-02-21:21:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-02-21:21:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-02-21:21:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-02-21:21:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-02-21:21:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-02-21:21:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  

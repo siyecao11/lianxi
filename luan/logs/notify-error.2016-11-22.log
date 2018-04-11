@@ -1,0 +1,13 @@
+2016-11-17-11:40:10 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，归来时间按钮定位失败
+  2016-11-17-11:40:21 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-17-11:40:27 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-17-19:03:31 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，归来时间按钮定位失败
+  2016-11-17-19:03:42 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-17-19:03:47 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-22-18:43:36 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，归来时间按钮定位失败
+  2016-11-22-18:44:12 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-22-18:44:17 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-22-18:56:21 [main] ERROR com.Utility.Log.Log(line-54)  -  visa  Productslist is not found in the visa Page.
+  2016-11-22-18:56:21 [main] ERROR com.Utility.Log.Log(line-54)  -  visa  Productslist is not found in the visa Page.
+  2016-11-22-18:56:21 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  

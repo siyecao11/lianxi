@@ -1,0 +1,104 @@
+2016-12-04-14:25:33 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"xpath","selector":"//input[@type='text' and @name='username']"}
+Command duration or timeout: 30 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.233', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 34a4e7e9-d4a8-4c2c-8344-a38b5b8c7720
+*** Element info: {Using=xpath, value=//input[@type='text' and @name='username']}
+  2016-12-04-14:25:33 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"xpath","selector":"//input[@type='password' and @name='password']"}
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.233', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 34a4e7e9-d4a8-4c2c-8344-a38b5b8c7720
+*** Element info: {Using=xpath, value=//input[@type='password' and @name='password']}
+  2016-12-04-14:25:33 [main] INFO  com.Utility.Log.Log(line-48)  - Unable to locate element: {"method":"xpath","selector":"//input[@name='login']"}
+Command duration or timeout: 14 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.233', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 34a4e7e9-d4a8-4c2c-8344-a38b5b8c7720
+*** Element info: {Using=xpath, value=//input[@name='login']}
+  2016-12-04-14:40:54 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-14:40:54 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-14:40:54 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-14:40:57 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-15:57:13 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-15:57:13 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-15:57:13 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-15:57:15 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-16:07:05 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-16:07:05 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-16:07:05 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-16:07:43 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-16:07:43 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-16:07:43 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-16:23:24 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-16:23:24 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-16:23:24 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-16:48:05 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-16:48:05 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-16:48:06 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-16:48:09 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-16:50:40 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-16:50:40 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-16:50:40 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-16:50:41 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-17:05:08 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-17:05:08 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-17:05:08 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-17:05:09 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-17:07:07 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:07:07 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:08:17 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:08:17 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:10:20 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-17:10:20 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-17:10:20 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-17:10:22 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-17:15:07 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:15:07 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:19:14 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-17:19:14 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-17:19:14 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-17:19:15 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-17:20:51 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-17:20:51 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-17:20:51 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-17:20:53 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-17:21:48 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-17:21:48 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-17:21:48 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-17:21:49 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-17:25:51 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:25:54 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:25:54 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:25:54 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:25:54 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:25:54 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:25:54 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:25:59 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:25:59 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-12-04-17:26:20 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-17:26:20 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-17:26:20 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-17:26:21 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-17:44:12 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-17:44:13 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-17:44:13 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-17:44:14 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-17:46:05 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-17:46:05 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-17:46:06 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-17:46:07 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  2016-12-04-18:29:38 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-12-04-18:29:38 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-12-04-18:29:38 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-12-04-18:29:40 [main] INFO  com.Utility.Log.Log(line-48)  -  点击签证一级导航按钮，进入签证产品列表页面
+  

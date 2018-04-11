@@ -1,0 +1,17 @@
+2016-11-23-19:46:58 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录名定位失败********
+  2016-11-23-19:46:58 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商密码定位失败********
+  2016-11-23-19:46:58 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录按钮定位失败********
+  2016-11-23-19:47:06 [main] ERROR com.Utility.Log.Log(line-54)  - ********签证一级导航定位成功失败********
+  2016-11-23-19:47:17 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-23-19:47:18 [main] ERROR com.Utility.Log.Log(line-54)  -  旅客信息 is not found in the visa Page.
+  2016-11-23-19:48:28 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录名定位失败********
+  2016-11-23-19:48:28 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商密码定位失败********
+  2016-11-23-19:48:28 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录按钮定位失败********
+  2016-11-23-19:48:31 [main] ERROR com.Utility.Log.Log(line-54)  - ********签证一级导航定位成功失败********
+  2016-11-23-20:10:59 [main] ERROR com.Utility.Log.Log(line-54)  - ********签证一级导航定位成功失败********
+  2016-11-23-20:12:33 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录名定位失败********
+  2016-11-23-20:12:33 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商密码定位失败********
+  2016-11-23-20:12:33 [main] ERROR com.Utility.Log.Log(line-54)  - ********采购商登录按钮定位失败********
+  2016-11-23-20:12:37 [main] ERROR com.Utility.Log.Log(line-54)  - ********签证一级导航定位成功失败********
+  2016-11-23-20:13:33 [main] ERROR com.Utility.Log.Log(line-54)  - ********签证一级导航定位成功失败********
+  

@@ -1,0 +1,401 @@
+2016-10-20-19:44:35 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-10-20-19:44:35 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-10-20-19:44:35 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-10-20-19:44:35 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:a111111
+  2016-10-20-19:44:35 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-10-20-19:44:35 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-10-20-19:44:35 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (9402b574-d0c5-423f-9004-115084490ace) Entering into HomePage...
+  2016-10-20-19:44:37 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-10-20-19:44:39 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-10-20-19:44:39 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-19:44:40 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-19:44:41 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-19:44:41 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-19:44:41 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-19:44:41 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-19:44:41 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-19:44:41 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-19:44:41 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-19:44:41 [main] INFO  com.Utility.Log.Log(line-48)  -  Visaproduct is clicked, now enter into visa product Details page
+  2016-10-20-19:44:41 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-19:44:47 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，立即预定按钮定位成功
+  2016-10-20-19:44:47 [main] INFO  com.Utility.Log.Log(line-48)  - 立即预定按钮点击成功
+  2016-10-20-19:44:47 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，出发时间定位成功
+  2016-10-20-19:44:47 [main] INFO  com.Utility.Log.Log(line-48)  - 输入出发时间:2016-11-30
+  2016-10-20-19:45:03 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，归来时间按钮定位失败
+  2016-10-20-19:45:13 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，成人数按钮定位失败
+  2016-10-20-19:45:23 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9402b574-d0c5-423f-9004-115084490ace
+  2016-10-20-19:45:33 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，儿童数按钮定位失败
+  2016-10-20-19:45:43 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9402b574-d0c5-423f-9004-115084490ace
+  2016-10-20-19:45:53 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，下一步按钮定位失败
+  2016-10-20-19:46:03 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9402b574-d0c5-423f-9004-115084490ace
+  2016-10-20-20:14:11 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-10-20-20:14:11 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-10-20-20:14:11 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-10-20-20:14:11 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:a111111
+  2016-10-20-20:14:11 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-10-20-20:14:11 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-10-20-20:14:11 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (9cf4f66a-f04e-4cc9-b0ec-ed215bce4c2f) Entering into HomePage...
+  2016-10-20-20:14:14 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-10-20-20:14:17 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-10-20-20:14:17 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:14:17 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:14:17 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:14:17 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:14:17 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:14:17 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:14:17 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:14:17 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:14:17 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:14:18 [main] INFO  com.Utility.Log.Log(line-48)  -  Visaproduct is clicked, now enter into visa product Details page
+  2016-10-20-20:14:18 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:14:25 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，立即预定按钮定位成功
+  2016-10-20-20:14:25 [main] INFO  com.Utility.Log.Log(line-48)  - 立即预定按钮点击成功
+  2016-10-20-20:14:25 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，出发时间定位成功
+  2016-10-20-20:14:25 [main] INFO  com.Utility.Log.Log(line-48)  - 输入出发时间:2016-11-30
+  2016-10-20-20:14:49 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，归来时间按钮定位失败
+  2016-10-20-20:14:59 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，成人数按钮定位失败
+  2016-10-20-20:15:09 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.11 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9cf4f66a-f04e-4cc9-b0ec-ed215bce4c2f
+  2016-10-20-20:15:19 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，儿童数按钮定位失败
+  2016-10-20-20:15:29 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9cf4f66a-f04e-4cc9-b0ec-ed215bce4c2f
+  2016-10-20-20:15:39 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，下一步按钮定位失败
+  2016-10-20-20:15:49 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9cf4f66a-f04e-4cc9-b0ec-ed215bce4c2f
+  2016-10-20-20:18:28 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-10-20-20:18:28 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-10-20-20:18:28 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-10-20-20:18:28 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:a111111
+  2016-10-20-20:18:28 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-10-20-20:18:28 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-10-20-20:18:28 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (3f285310-4615-4a46-8083-b1f489fc1243) Entering into HomePage...
+  2016-10-20-20:18:32 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-10-20-20:18:34 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-10-20-20:18:34 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:18:35 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:18:35 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:18:35 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:18:35 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:18:35 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:18:35 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:18:35 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:18:35 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:18:36 [main] INFO  com.Utility.Log.Log(line-48)  -  Visaproduct is clicked, now enter into visa product Details page
+  2016-10-20-20:18:36 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:18:41 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，立即预定按钮定位成功
+  2016-10-20-20:18:42 [main] INFO  com.Utility.Log.Log(line-48)  - 立即预定按钮点击成功
+  2016-10-20-20:18:42 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，出发时间定位成功
+  2016-10-20-20:18:42 [main] INFO  com.Utility.Log.Log(line-48)  - 输入出发时间:2016-11-30
+  2016-10-20-20:19:17 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，归来时间按钮定位失败
+  2016-10-20-20:19:27 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，成人数按钮定位失败
+  2016-10-20-20:19:37 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3f285310-4615-4a46-8083-b1f489fc1243
+  2016-10-20-20:19:47 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，儿童数按钮定位失败
+  2016-10-20-20:19:57 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3f285310-4615-4a46-8083-b1f489fc1243
+  2016-10-20-20:20:07 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，下一步按钮定位失败
+  2016-10-20-20:20:17 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3f285310-4615-4a46-8083-b1f489fc1243
+  2016-10-20-20:23:05 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-10-20-20:23:06 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-10-20-20:23:06 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-10-20-20:23:06 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:a111111
+  2016-10-20-20:23:06 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-10-20-20:23:06 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-10-20-20:23:06 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (4c9bccd1-fada-4187-919f-4ea5b6adc2b6) Entering into HomePage...
+  2016-10-20-20:23:07 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-10-20-20:23:09 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-10-20-20:23:10 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:23:10 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:23:10 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:23:10 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:23:10 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:23:10 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:23:10 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:23:11 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:23:11 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:23:11 [main] INFO  com.Utility.Log.Log(line-48)  -  Visaproduct is clicked, now enter into visa product Details page
+  2016-10-20-20:23:11 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:23:15 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，立即预定按钮定位成功
+  2016-10-20-20:23:15 [main] INFO  com.Utility.Log.Log(line-48)  - 立即预定按钮点击成功
+  2016-10-20-20:23:15 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，出发时间定位成功
+  2016-10-20-20:23:15 [main] INFO  com.Utility.Log.Log(line-48)  - 输入出发时间:2016-11-30
+  2016-10-20-20:23:51 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，归来时间按钮定位失败
+  2016-10-20-20:24:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，成人数按钮定位失败
+  2016-10-20-20:24:11 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4c9bccd1-fada-4187-919f-4ea5b6adc2b6
+  2016-10-20-20:24:21 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，儿童数按钮定位失败
+  2016-10-20-20:24:31 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4c9bccd1-fada-4187-919f-4ea5b6adc2b6
+  2016-10-20-20:24:41 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，下一步按钮定位失败
+  2016-10-20-20:24:51 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.13 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4c9bccd1-fada-4187-919f-4ea5b6adc2b6
+  2016-10-20-20:29:00 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-10-20-20:29:00 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-10-20-20:29:00 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-10-20-20:29:00 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:a111111
+  2016-10-20-20:29:00 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-10-20-20:29:00 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-10-20-20:29:00 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (3a5b22f2-ee62-4457-8110-abe9ea219f69) Entering into HomePage...
+  2016-10-20-20:29:02 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-10-20-20:29:04 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-10-20-20:29:04 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:29:06 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:29:06 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:29:06 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:29:06 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:29:06 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:29:06 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:29:06 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:29:06 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:29:06 [main] INFO  com.Utility.Log.Log(line-48)  -  Visaproduct is clicked, now enter into visa product Details page
+  2016-10-20-20:29:07 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:29:11 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，立即预定按钮定位成功
+  2016-10-20-20:29:11 [main] INFO  com.Utility.Log.Log(line-48)  - 立即预定按钮点击成功
+  2016-10-20-20:29:11 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，出发时间定位成功
+  2016-10-20-20:29:11 [main] INFO  com.Utility.Log.Log(line-48)  - 输入出发时间:2016-11-30
+  2016-10-20-20:29:36 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，归来时间按钮定位失败
+  2016-10-20-20:29:46 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，成人数按钮定位失败
+  2016-10-20-20:29:56 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3a5b22f2-ee62-4457-8110-abe9ea219f69
+  2016-10-20-20:30:06 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，儿童数按钮定位失败
+  2016-10-20-20:30:17 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3a5b22f2-ee62-4457-8110-abe9ea219f69
+  2016-10-20-20:30:27 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，下一步按钮定位失败
+  2016-10-20-20:30:37 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3a5b22f2-ee62-4457-8110-abe9ea219f69
+  2016-10-20-20:35:00 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-10-20-20:35:00 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-10-20-20:35:00 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-10-20-20:35:00 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:a111111
+  2016-10-20-20:35:00 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-10-20-20:35:00 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-10-20-20:35:00 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (0741914e-8488-4fbb-bdc3-dcd4a7a47b5f) Entering into HomePage...
+  2016-10-20-20:35:02 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-10-20-20:35:04 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-10-20-20:35:04 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:35:05 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:35:05 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:35:05 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:35:05 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:35:05 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:35:05 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:35:05 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:35:05 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:35:05 [main] INFO  com.Utility.Log.Log(line-48)  -  Visaproduct is clicked, now enter into visa product Details page
+  2016-10-20-20:35:06 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:35:10 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，立即预定按钮定位成功
+  2016-10-20-20:35:11 [main] INFO  com.Utility.Log.Log(line-48)  - 立即预定按钮点击成功
+  2016-10-20-20:35:11 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，出发时间定位成功
+  2016-10-20-20:35:11 [main] INFO  com.Utility.Log.Log(line-48)  - 输入出发时间:2016-11-30
+  2016-10-20-20:35:36 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，归来时间按钮定位失败
+  2016-10-20-20:35:36 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，成人数定位成功
+  2016-10-20-20:35:36 [main] INFO  com.Utility.Log.Log(line-48)  - 输入成人数:1
+  2016-10-20-20:35:36 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，儿童数定位成功
+  2016-10-20-20:35:36 [main] INFO  com.Utility.Log.Log(line-48)  - 输入儿童数:1
+  2016-10-20-20:35:36 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，下一步定位成功
+  2016-10-20-20:35:36 [main] INFO  com.Utility.Log.Log(line-48)  - 点击签证下一步按钮成功
+  2016-10-20-20:37:05 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-10-20-20:37:05 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-10-20-20:37:05 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-10-20-20:37:05 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:a111111
+  2016-10-20-20:37:05 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-10-20-20:37:05 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-10-20-20:37:05 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (4b76fe6d-6551-4ab9-bb62-3bbc1e8783e3) Entering into HomePage...
+  2016-10-20-20:37:06 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-10-20-20:37:08 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-10-20-20:37:08 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:37:09 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:37:09 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:37:09 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:37:09 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:37:09 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:37:09 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:37:09 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:37:09 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:37:09 [main] INFO  com.Utility.Log.Log(line-48)  -  Visaproduct is clicked, now enter into visa product Details page
+  2016-10-20-20:37:10 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:37:14 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，立即预定按钮定位成功
+  2016-10-20-20:37:14 [main] INFO  com.Utility.Log.Log(line-48)  - 立即预定按钮点击成功
+  2016-10-20-20:37:14 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，出发时间定位成功
+  2016-10-20-20:37:14 [main] INFO  com.Utility.Log.Log(line-48)  - 输入出发时间:2016-11-30
+  2016-10-20-20:37:40 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，归来时间按钮定位失败
+  2016-10-20-20:37:40 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，成人数定位成功
+  2016-10-20-20:37:40 [main] INFO  com.Utility.Log.Log(line-48)  - 输入成人数:1
+  2016-10-20-20:37:40 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，儿童数定位成功
+  2016-10-20-20:37:40 [main] INFO  com.Utility.Log.Log(line-48)  - 输入儿童数:1
+  2016-10-20-20:37:40 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，下一步定位成功
+  2016-10-20-20:37:40 [main] INFO  com.Utility.Log.Log(line-48)  - 点击签证下一步按钮成功
+  2016-10-20-20:39:20 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-10-20-20:39:20 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-10-20-20:39:20 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-10-20-20:39:20 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:a111111
+  2016-10-20-20:39:20 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-10-20-20:39:20 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-10-20-20:39:20 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (e1c3addf-e4ed-4b2c-89a5-90d8fde2d0d5) Entering into HomePage...
+  2016-10-20-20:39:21 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-10-20-20:39:23 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-10-20-20:39:23 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:39:24 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:39:24 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:39:24 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:39:24 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:39:24 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:39:24 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:39:24 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:39:24 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:39:25 [main] INFO  com.Utility.Log.Log(line-48)  -  Visaproduct is clicked, now enter into visa product Details page
+  2016-10-20-20:39:25 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:39:29 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，立即预定按钮定位成功
+  2016-10-20-20:39:30 [main] INFO  com.Utility.Log.Log(line-48)  - 立即预定按钮点击成功
+  2016-10-20-20:39:30 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，出发时间定位成功
+  2016-10-20-20:39:30 [main] INFO  com.Utility.Log.Log(line-48)  - 输入出发时间:2016-11-30
+  2016-10-20-20:39:40 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，归来时间定位成功
+  2016-10-20-20:39:50 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e1c3addf-e4ed-4b2c-89a5-90d8fde2d0d5
+  2016-10-20-20:39:50 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，成人数定位成功
+  2016-10-20-20:39:50 [main] INFO  com.Utility.Log.Log(line-48)  - 输入成人数:1
+  2016-10-20-20:39:50 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，儿童数定位成功
+  2016-10-20-20:39:50 [main] INFO  com.Utility.Log.Log(line-48)  - 输入儿童数:1
+  2016-10-20-20:39:50 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，下一步定位成功
+  2016-10-20-20:39:50 [main] INFO  com.Utility.Log.Log(line-48)  - 点击签证下一步按钮成功
+  2016-10-20-20:53:26 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-10-20-20:53:26 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-10-20-20:53:26 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-10-20-20:53:26 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:a111111
+  2016-10-20-20:53:26 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-10-20-20:53:26 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-10-20-20:53:26 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (fdd0f362-38e4-4fac-aba7-8888c89fcf32) Entering into HomePage...
+  2016-10-20-20:53:27 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-10-20-20:53:29 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-10-20-20:53:30 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:53:31 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:53:31 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:53:31 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:53:31 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:53:31 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:53:31 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:53:31 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:53:31 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:53:31 [main] INFO  com.Utility.Log.Log(line-48)  -  Visaproduct is clicked, now enter into visa product Details page
+  2016-10-20-20:53:32 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-10-20-20:53:36 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，立即预定按钮定位成功
+  2016-10-20-20:53:36 [main] INFO  com.Utility.Log.Log(line-48)  - 立即预定按钮点击成功
+  2016-10-20-20:53:36 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，出发时间定位成功
+  2016-10-20-20:53:36 [main] INFO  com.Utility.Log.Log(line-48)  - 输入出发时间:2016-11-30
+  2016-10-20-20:54:06 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，归来时间定位成功
+  2016-10-20-20:54:16 [main] INFO  com.Utility.Log.Log(line-48)  - Element not found in the cache - perhaps the page has changed since it was looked up
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.53.1', revision: 'a36b8b1', time: '2016-06-30 17:32:46'
+System info: host: 'TZ-IT-YiDR', ip: '10.3.21.211', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_92'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=36.0.4, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fdd0f362-38e4-4fac-aba7-8888c89fcf32
+  2016-10-20-20:54:16 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，成人数定位成功
+  2016-10-20-20:54:16 [main] INFO  com.Utility.Log.Log(line-48)  - 输入成人数:1
+  2016-10-20-20:54:17 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，儿童数定位成功
+  2016-10-20-20:54:17 [main] INFO  com.Utility.Log.Log(line-48)  - 输入儿童数:1
+  2016-10-20-20:54:17 [main] INFO  com.Utility.Log.Log(line-48)  - 签证指定产品详情页，下一步定位成功
+  2016-10-20-20:54:17 [main] INFO  com.Utility.Log.Log(line-48)  - 点击签证下一步按钮成功
+  

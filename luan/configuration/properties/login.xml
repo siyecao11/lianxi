@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!--  登录信息 模板 -->
+    <root>
+	<Pdata ID="BATE">
+
+	        <purchaserlogin>
+	            <url>https://www.beta.travelzen.com/tops-front-purchaser/facade/signin?loginFailureCount=0</url>
+	            <username>yidongrong</username>
+	            <password>a111111</password>            
+	            <pay>111111</pay>
+	        </purchaserlogin>
+	                 
+	</Pdata>
+   </root>

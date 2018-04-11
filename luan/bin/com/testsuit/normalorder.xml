@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+   
+  <groups>
+  		<define name ="TC01"> 
+  		 
+  		  <include name = "采购商登陆进入签证项目"/> 
+  		  <include name = "采购商进入指定签证产品详情页"/>  
+  		<!--  
+  
+          <include name = "进入签证产品创建订单页面"/> 
+          <include name = "填写旅客信息，创建订单"/> -->
+  		</define>
+  	<run>
+  			<include name = "TC01"/>  
+  	</run>
+  		    </groups>	
+    <classes>
+        
+   <class name="com.login.purchaselogin.testcase.LoginPurchase"/>   
+     <class name="com.visa.testcase.CreateOrder"/> 
+    <class name="com.datageneration.logindata.LoginData"/> 
+    <class name="com.datageneration.visadata.ProductData"/>         
+      
+    </classes>
+  </test> <!-- addCostomerService -->
+</suite> <!-- Suite -->
+
+
+

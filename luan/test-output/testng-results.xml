@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14773" started-at="2018-04-11T06:24:37Z" finished-at="2018-04-11T06:24:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14773" started-at="2018-04-11T06:24:37Z" finished-at="2018-04-11T06:24:52Z">
+      <class name="test.Dialog">
+        <test-method status="PASS" signature="dialog()[pri:0, instance:test.Dialog@42d80b78]" name="dialog" duration-ms="14735" started-at="2018-04-11T14:24:37Z" finished-at="2018-04-11T14:24:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dialog -->
+      </class> <!-- test.Dialog -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

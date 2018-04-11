@@ -1,0 +1,93 @@
+﻿<html><head>
+<script type="text/javascript">
+function disp_alert()
+{
+alert("我是警告框！！")
+}
+
+function show_confirm()
+{
+var r=confirm("Press a button!"); 
+if (r==true)
+  {
+  alert("You pressed OK!");
+  }
+else
+  {
+  alert("You pressed Cancel!");
+  }
+}
+
+function show_confirm1()
+  {
+  confirm("我是个确认框1");
+  }
+
+  function disp_prompt()
+  {
+  var name=prompt("请输入您的名字","Bill Gates")
+  if (name!=null && name!="")
+    {
+    alert("你好！" + name + " 今天过得怎么样？")
+    }
+  }
+
+</script>
+
+</head>
+<body>
+
+<form enctype="multipart/form-data" method="post" action="fileUpload.php" name="form1">
+<label for="file">File:</label>
+<input type="file" id="file" name="file"> 
+<br>
+<input type="hidden" value="false" name="multi">
+<input type="submit" value="Submit Single" name="submit">
+</form>
+
+<form enctype="multipart/form-data" method="post" action="fileUpload.php?q=a$&amp;*+^" name="form3">
+<label for="file">File:</label>
+<input type="file" id="file5" name="file"> 
+<br>
+<input type="hidden" value="false" name="multi">
+<input type="submit" value="Submit Single" name="submit">
+</form>
+
+
+<form enctype="multipart/form-data" method="post" action="fileUpload.php">
+<label for="file2">File[]:</label>
+<input type="file" id="file2" name="file[]"> 
+<br>
+<label for="file3">File[]:</label>
+<input type="file" id="file3" name="file[]"> 
+<br>
+<input type="hidden" value="true" name="multi">
+<input type="submit" value="Submit Array" name="submit">
+</form>
+
+<script>
+function setAction(){
+	document.form2.action = "fileUpload.php";
+}
+</script>
+
+<form onsubmit="setAction()" enctype="multipart/form-data" method="post" action="" name="form2">
+<label for="file">File:</label>
+<input type="file" id="file4" name="file"> 
+<br>
+<input type="hidden" value="false" name="multi">
+<input type="submit" value="Submit Single" name="submit">
+</form>
+
+
+ <a href="1.txt">下载</a>
+ <br>
+ <input id="alert" type="button" onclick="disp_alert()" value="显示警告框" />
+<br>
+<input id="confirm" type="button" onclick="show_confirm()" value="显示确认框" />
+<br>
+<input id="confirm1" type="button" onclick="show_confirm1()" value="显示确认框1" />
+<br>
+<input id="prompt" type="button" onclick="disp_prompt()" value="显示提示框" />
+
+</body></html>

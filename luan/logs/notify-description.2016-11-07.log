@@ -1,0 +1,502 @@
+2016-11-07-19:05:59 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-19:05:59 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-19:05:59 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-19:05:59 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-19:05:59 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-19:05:59 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-19:06:00 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (ecfa2dff-58e6-493e-8b23-851b693395d2) Entering into HomePage...
+  2016-11-07-19:06:00 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-19:06:01 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-19:06:12 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-19:17:00 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-19:17:00 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-19:17:00 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-19:17:00 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-19:17:00 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-19:17:00 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-19:17:00 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (e560faba-e2b6-4fce-b1e4-7d6ae114412a) Entering into HomePage...
+  2016-11-07-19:17:01 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-19:17:01 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-19:17:14 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-19:19:36 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-19:19:36 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-19:19:36 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-19:19:36 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-19:19:36 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-19:19:36 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-19:19:36 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (43e9b873-cad5-4fe6-9ab4-1da6dbc2a666) Entering into HomePage...
+  2016-11-07-19:19:37 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-19:19:38 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-19:19:44 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-19:31:13 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-19:31:13 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-19:31:13 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-19:31:13 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-19:31:13 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-19:31:13 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-19:31:13 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (c089b6a1-f13a-497e-99e4-60fc3873f731) Entering into HomePage...
+  2016-11-07-19:31:14 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-19:31:15 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-19:31:24 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-19:55:47 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-19:55:47 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-19:55:47 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-19:55:47 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-19:55:47 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-19:55:47 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-19:55:47 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (228c0c9f-f87d-4c83-9b23-3841fea90a53) Entering into HomePage...
+  2016-11-07-19:55:48 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-19:55:49 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-19:55:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-19:55:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:55:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-19:55:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:55:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-19:55:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:55:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-19:55:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:55:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-19:55:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:55:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-19:55:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:55:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-19:55:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:55:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-19:55:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:55:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-19:55:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:56:32 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-19:56:32 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-19:56:32 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-19:56:32 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-19:56:32 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-19:56:32 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-19:56:33 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (bbad4b36-b08a-4bad-96dc-ecce4a836dc9) Entering into HomePage...
+  2016-11-07-19:56:33 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-19:56:34 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-19:56:38 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-19:56:38 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:56:38 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-19:56:38 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:56:38 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-19:56:38 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:56:38 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-19:56:38 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:56:38 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-19:56:38 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:56:38 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-19:56:38 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:56:38 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-19:56:38 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:56:38 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-19:56:38 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:56:38 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-19:56:38 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:57:39 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-19:57:39 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-19:57:39 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-19:57:39 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-19:57:39 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-19:57:40 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-19:57:40 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (6ac0c421-fdc8-41e8-9a48-af32da1e017f) Entering into HomePage...
+  2016-11-07-19:57:41 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-19:57:42 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-19:57:50 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-19:57:50 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:57:50 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-19:57:50 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:57:50 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-19:57:50 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:57:50 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-19:57:50 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:57:50 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-19:57:50 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:57:50 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-19:57:50 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:57:50 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-19:57:50 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:57:50 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-19:57:50 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:57:50 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-19:57:50 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-19:59:58 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-19:59:58 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-19:59:58 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-19:59:58 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-19:59:58 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-19:59:58 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-19:59:58 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (93ae6432-2308-4ea5-840c-fa94dee0f5ac) Entering into HomePage...
+  2016-11-07-19:59:59 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:00:00 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:00:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-20:00:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:00:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:00:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:00:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:00:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:00:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:00:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-20:00:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-20:00:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:30 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:00:30 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:00:30 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:00:30 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:00:30 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:00:30 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:00:30 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (d1ab673a-208e-4f0d-beb9-2ab12795d545) Entering into HomePage...
+  2016-11-07-20:00:31 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:00:33 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:00:33 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-20:00:33 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:33 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:00:33 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:33 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:00:33 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:33 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:00:33 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:33 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:00:33 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:33 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:00:33 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:33 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:00:33 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:33 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-20:00:33 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:00:33 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-20:00:33 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:04:58 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:04:58 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:04:58 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:04:58 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:04:58 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:04:58 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:04:58 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (4183535f-acdb-43a2-8bc2-7359a52db7cf) Entering into HomePage...
+  2016-11-07-20:04:59 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:05:01 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:05:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-20:05:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:05:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:05:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:05:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:05:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:05:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:05:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:05:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:05:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:05:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:05:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:05:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:05:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:05:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-20:05:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:05:01 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-20:05:01 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:06:46 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:06:46 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:06:46 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:06:46 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:06:46 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:06:46 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:06:46 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (99b4cd71-290d-4bef-8d7e-f44856f76745) Entering into HomePage...
+  2016-11-07-20:06:47 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:06:56 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:07:09 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-20:07:09 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:07:09 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:07:09 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:07:09 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:07:09 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:07:09 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:07:09 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:07:09 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:07:09 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:07:09 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:07:09 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:07:09 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:07:09 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:07:09 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-20:07:09 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:07:09 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-20:07:09 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:09:07 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:09:07 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:09:07 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:09:07 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:09:07 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:09:07 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:09:07 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (e4cb7549-81ea-419d-8c79-b3b18dd8140b) Entering into HomePage...
+  2016-11-07-20:09:08 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:09:09 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:09:28 [main] INFO  com.Utility.Log.Log(line-48)  - visa  查看详情 found in the visa Page.
+  2016-11-07-20:09:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-20:09:28 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:09:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:09:28 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:09:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:09:28 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:09:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:09:28 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:09:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:09:28 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:09:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:09:28 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:09:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:09:28 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:09:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-20:09:28 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:09:28 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-20:09:28 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:11:55 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:11:55 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:11:55 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:11:55 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:11:55 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:11:55 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:11:55 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (c1339ac0-7c24-4b95-9244-baf7449eaf4e) Entering into HomePage...
+  2016-11-07-20:11:57 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:11:59 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:12:13 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-20:12:13 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:12:13 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:12:13 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:12:13 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:12:13 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:12:13 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:12:13 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:12:13 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:12:13 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:12:13 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:12:13 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:12:13 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:12:13 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:12:13 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-20:12:13 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:12:13 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-20:12:13 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:13:21 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:13:21 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:13:21 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:13:21 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:13:21 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:13:21 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:13:21 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (b1988e5d-8655-4f72-b7f7-c3e18f54c85e) Entering into HomePage...
+  2016-11-07-20:13:24 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:13:26 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:13:26 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:13:29 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:13:29 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - visa  查看详情 found in the visa Page.
+  2016-11-07-20:13:30 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:13:30 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:13:30 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:13:30 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:13:30 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:13:30 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:13:30 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:13:30 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:13:30 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-20:13:30 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:14:29 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:14:29 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:14:29 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:14:29 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:14:29 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:14:29 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:14:29 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (278b5851-7520-420b-b00a-722e08a6a840) Entering into HomePage...
+  2016-11-07-20:14:30 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:14:32 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:14:32 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:28:17 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:28:17 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:28:17 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:28:17 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:28:17 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:28:17 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:28:18 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (432701dd-7112-42e0-9d39-c84d8840bd68) Entering into HomePage...
+  2016-11-07-20:28:19 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:28:20 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:28:20 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:34:03 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:34:03 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:34:03 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:34:03 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:34:03 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:34:03 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:34:03 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (2193d1e4-bde5-4615-8dfb-b5412a5c791e) Entering into HomePage...
+  2016-11-07-20:34:04 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:34:05 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:34:05 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:34:36 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:34:36 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:34:36 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:34:36 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:34:38 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:34:40 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:34:40 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:34:40 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:34:40 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:34:58 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:35:06 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:35:06 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:35:06 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:35:06 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:35:12 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:36:55 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:41:15 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:41:15 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:41:15 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:41:15 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:41:15 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:41:15 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:41:15 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (4a4f07d6-34ea-439b-bce6-ce6a6f904d2f) Entering into HomePage...
+  2016-11-07-20:41:17 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:41:17 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:41:18 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - visa  Productslist found in the visa Page.
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - visa  查看详情 found in the visa Page.
+  2016-11-07-20:41:20 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:41:20 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:41:20 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:41:20 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:41:20 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:41:20 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:41:20 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:41:20 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:41:20 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-20:41:20 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:44:16 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:44:16 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:44:16 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:44:16 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:44:16 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:44:16 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:44:16 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (0fb721a0-a79c-454a-bdbe-d3a77e6c6a03) Entering into HomePage...
+  2016-11-07-20:44:19 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:44:20 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:44:24 [main] ERROR com.Utility.Log.Log(line-54)  - 产品列表框定位失败
+  2016-11-07-20:44:25 [main] ERROR com.Utility.Log.Log(line-54)  -  visa  查看详情 is not found in the visa Page.
+  2016-11-07-20:44:25 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-20:44:25 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:44:25 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:44:25 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:44:25 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:44:25 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:44:25 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:44:25 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:44:25 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:44:25 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:44:25 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:44:25 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:44:25 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:44:25 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:44:25 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-20:44:25 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:44:25 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-20:44:25 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:44:33 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase UserName text box is found on the Login Page
+  2016-11-07-20:44:33 [main] INFO  com.Utility.Log.Log(line-48)  - 输入用户名:yidongrong
+  2016-11-07-20:44:33 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Password text box is found on the Login Page
+  2016-11-07-20:44:33 [main] INFO  com.Utility.Log.Log(line-48)  - 输入密码:111111
+  2016-11-07-20:44:33 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase LogIn button is found on the Login Page
+  2016-11-07-20:44:33 [main] INFO  com.Utility.Log.Log(line-48)  - 点击登录按钮
+  2016-11-07-20:44:33 [main] INFO  com.Utility.Log.Log(line-48)  - Login Successfully, FirefoxDriver: firefox on WINDOWS (134f533b-9117-47cc-893a-1697187b6efc) Entering into HomePage...
+  2016-11-07-20:44:35 [main] INFO  com.Utility.Log.Log(line-48)  - Purchase Visa Menu item is found on the Wlecome Page
+  2016-11-07-20:44:36 [main] INFO  com.Utility.Log.Log(line-48)  -  Visa menuItem is clicked, now enter into visa page
+  2016-11-07-20:44:36 [main] INFO  com.Utility.Log.Log(line-48)  - 产品列表框定位成功
+  2016-11-07-20:57:56 [main] ERROR com.Utility.Log.Log(line-54)  - 产品列表框定位失败
+  2016-11-07-20:57:56 [main] ERROR com.Utility.Log.Log(line-54)  -  visa  查看详情 is not found in the visa Page.
+  2016-11-07-20:57:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-20:57:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:57:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:57:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:57:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:57:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:57:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:57:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:57:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:57:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:57:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:57:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:57:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:57:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:57:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-20:57:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:57:56 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-20:57:56 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:58:06 [main] ERROR com.Utility.Log.Log(line-54)  - 产品列表框定位失败
+  2016-11-07-20:58:06 [main] ERROR com.Utility.Log.Log(line-54)  -  visa  查看详情 is not found in the visa Page.
+  2016-11-07-20:58:06 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-20:58:06 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:58:06 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:58:06 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:58:06 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:58:06 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:58:06 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:58:06 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:58:06 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-20:58:06 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:58:06 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-20:58:06 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:58:06 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-20:58:06 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:58:06 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-20:58:06 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-20:58:06 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-20:58:06 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-21:01:48 [main] ERROR com.Utility.Log.Log(line-54)  - 产品列表框定位失败
+  2016-11-07-21:01:48 [main] ERROR com.Utility.Log.Log(line-54)  -  visa  查看详情 is not found in the visa Page.
+  2016-11-07-21:01:48 [main] ERROR com.Utility.Log.Log(line-54)  - 签证指定产品详情页，立即预定按钮定位失败
+  2016-11-07-21:01:48 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-21:01:48 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-21:01:48 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-21:01:48 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-21:01:48 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-21:01:48 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-21:01:48 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-21:01:48 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客姓名定位失败
+  2016-11-07-21:01:48 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-21:01:48 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客证件号定位失败
+  2016-11-07-21:01:48 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-21:01:48 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，旅客手机号定位失败
+  2016-11-07-21:01:48 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-21:01:48 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，自取按钮定位失败
+  2016-11-07-21:01:48 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  2016-11-07-21:01:48 [main] ERROR com.Utility.Log.Log(line-54)  - 签证创建订单页面，提交订单按钮定位失败
+  2016-11-07-21:01:48 [main] INFO  com.Utility.Log.Log(line-48)  - 
+  
