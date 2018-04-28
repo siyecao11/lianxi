@@ -2,16 +2,19 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14773" started-at="2018-04-11T06:24:37Z" finished-at="2018-04-11T06:24:52Z">
+  <suite name="Suite" duration-ms="14005" started-at="2018-04-12T10:22:16Z" finished-at="2018-04-12T10:22:30Z">
     <groups>
+      <group name="弹框处理">
+        <method signature="Dialog.dialog()[pri:0, instance:test.Dialog@5c3bd550]" name="dialog" class="test.Dialog"/>
+      </group> <!-- 弹框处理 -->
     </groups>
-    <test name="Default test" duration-ms="14773" started-at="2018-04-11T06:24:37Z" finished-at="2018-04-11T06:24:52Z">
+    <test name="Test" duration-ms="14005" started-at="2018-04-12T10:22:16Z" finished-at="2018-04-12T10:22:30Z">
       <class name="test.Dialog">
-        <test-method status="PASS" signature="dialog()[pri:0, instance:test.Dialog@42d80b78]" name="dialog" duration-ms="14735" started-at="2018-04-11T14:24:37Z" finished-at="2018-04-11T14:24:52Z">
+        <test-method status="PASS" signature="dialog()[pri:0, instance:test.Dialog@5c3bd550]" name="dialog" duration-ms="13975" started-at="2018-04-12T18:22:16Z" finished-at="2018-04-12T18:22:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dialog -->
       </class> <!-- test.Dialog -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

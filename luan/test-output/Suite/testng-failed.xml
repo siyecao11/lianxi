@@ -8,11 +8,11 @@
       </run>
     </groups>
     <classes>
-      <class name="com.visa.testcase.CreateOrder">
+      <class name="test.Dialog">
         <methods>
-          <include name="VisaDetail"/>
+          <include name="dialog"/>
         </methods>
-      </class> <!-- com.visa.testcase.CreateOrder -->
+      </class> <!-- test.Dialog -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

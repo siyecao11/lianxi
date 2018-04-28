@@ -7,10 +7,10 @@ import org.testng.annotations.Test;
 
 public class Dialog {
 
-	@Test
+	@Test(groups = { "弹框处理" })
 	public void dialog() throws InterruptedException{
 		Getdriver getDriver=new Getdriver();	   
-		WebDriver driver = getDriver.driver("file:///E:/visa/luan/filesource/new.html"); 	
+		WebDriver driver = getDriver.driver("file:///E:/lianxi/luan/filesource/new.html"); 	
 		
 		/*//警告框处理
 		WebElement alert =driver.findElement(By.id("alert"));

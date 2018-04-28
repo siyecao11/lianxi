@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+  <test name="Test">
+  
+   
+  <groups>
+  		<define name ="TC01"> 		 
+  		  <include name = "弹框处理"/>  		 
+  		</define> 		
+  	<run>
+  			<include name = "TC01"/>  
+  	</run>
+   </groups>	 		
+  		    
+    <classes>      
+   <class name="test.Dialog"/>           
+    </classes>
+    
+    
+  </test> <!-- addCostomerService -->
+</suite> <!-- Suite -->
+
+
+
